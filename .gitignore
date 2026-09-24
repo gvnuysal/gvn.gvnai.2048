@@ -1,0 +1,49 @@
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+*.csproj
+*.sln
+*.slnx
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+crashlytics-build.properties
+*.apk
+*.aab
+*.unitypackage
+
+# IDE
+.idea/
+.vs/
+.vscode/
+*.DotSettings.user
+
+# OS
+.DS_Store
+
+# dotnet test project (Tests/Core.Tests) — keep its csproj
+!/Tests/**/*.csproj
+/Tests/**/bin/
+/Tests/**/obj/
+
+# Test results
+/TestResults*.xml
+
+# Android/IL2CPP build temp
+/.utmp/

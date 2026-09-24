@@ -1,0 +1,22 @@
+{
+    "name": "Game2048.Editor",
+    "rootNamespace": "Game2048.Editor",
+    "references": [
+        "Game2048.Core",
+        "Game2048.Runtime",
+        "Unity.InputSystem",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
